@@ -1,0 +1,13 @@
+img{
+    height: 20%;
+}
+body{
+    background-color: rgb(172, 210, 243);
+    font-family: cursive;
+}
+h1{
+    background-color: rgb(189, 214, 236);
+    width: 30%;
+    border: 5px solid rgb(99, 162, 224);
+}
+
